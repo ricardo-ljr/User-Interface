@@ -64,3 +64,31 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.navigation{
+	display: inline-block;
+
+}
+
+a{
+	color: lightgray;
+	text-decoration: none;
+	padding: 20px;
+	margin: 5px;
+	display: inline-block;
+}
+.logo{
+	margin-top: 40px;
+	position: relative;
+}
+
+.header{
+	display: inline-block;
+}
+.section-1{
+	display:inline-block;
+}
+
+.section-2{
+	display:inline-block;
+}
